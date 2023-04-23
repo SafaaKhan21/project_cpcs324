@@ -1,0 +1,6 @@
+digraph 0 
+4 4
+A B 4
+B C 1
+C D 2
+D A 5
